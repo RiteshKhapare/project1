@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "roll": "101",
+      "fname": "Rit",
+      "lname": "Khapare",
+      "id": 1
+    },
+    {
+      "roll": "101",
+      "fname": "Abc",
+      "lname": "B",
+      "id": 2
+    }
+  ]
+}
